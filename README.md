@@ -20,7 +20,6 @@ I made it to practice web development, learn new tools, and suffer slightly less
 - TailwindCSS
 - HTML
 - CSS
-- JavaScript
 - 40% caffeine, 60% "please work"
 
 ## 🎯 Purpose
