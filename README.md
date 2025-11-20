@@ -18,9 +18,14 @@ I made it to practice web development, learn new tools, and suffer slightly less
 - ReactJS
 - Vite
 - TailwindCSS
+- HTML
+- CSS
 - JavaScript
 - 40% caffeine, 60% "please work"
 
 ## 🎯 Purpose
 I created this project to level up my coding skills and understand how real websites are built.
 Every update = one step closer to becoming a professional developer (and one step further from tutorial dependency).
+
+## Tutorial
+To build this LMS Website like me, you can watch this [tutorial](https://youtu.be/p2zWawmDkF4?si=-WSoFFNd3XERMCRm) by **GreatStack**.
